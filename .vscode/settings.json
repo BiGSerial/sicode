@@ -1,9 +1,0 @@
-{
-    "terminal.integrated.colorScheme": "One Dark",
-    "terminal.integrated.fontWeightBold": "bold",
-    "terminal.integrated.fontWeight": "normal",
-    "terminal.integrated.cursorBlinking": true,
-    "editor.fontFamily": "'Cascade Code', 'Fira Code'",
-    "editor.fontLigatures": true,
-    "editor.fontSize": 14,
-}
